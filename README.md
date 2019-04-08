@@ -1,0 +1,2 @@
+# RapidSMS
+Experimenting with RapidSMS
